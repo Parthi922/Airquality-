@@ -1,0 +1,6 @@
+{
+  "name": "Urban Air Quality Assistant",
+  "description": "Real-time urban air quality telemetry, deterministic health advisories, city comparisons, and grounded AI guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
